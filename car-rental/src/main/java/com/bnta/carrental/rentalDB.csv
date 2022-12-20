@@ -1,0 +1,5 @@
+Car ID, Price, Make, Rented
+1, 210.99, AUDI, true
+2, 599.99, BMW, true
+4, 200.99, SUZUKI, true
+5, 400.0, AUDI, false
